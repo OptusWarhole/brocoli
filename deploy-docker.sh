@@ -1,0 +1,1 @@
+ANSIBLE_HOST_KEY_CHECKING=false ansible-playbook deploy-docker.yml -i inventories/develop
